@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://120.26.58.36/dafengOBJ.ipa</string>
+					<string>https://andy126.github.io/dafeng/dafengOBJ.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://120.26.58.36/icon@2x.png</string>
+					<string>https://andy126.github.io/dafeng/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://120.26.58.36/icon.png</string>
+					<string>https://andy126.github.io/dafeng/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
